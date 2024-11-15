@@ -1,0 +1,41 @@
+﻿.accordionHeader {
+border:1px solid #2F4F4F;
+color:#FFF;
+background-color:#2E4d7B;
+font-family:Arial, Sans-Serif;
+font-size:12px;
+font-weight:700;
+margin-top:5px;
+cursor:pointer;
+padding:5px;
+}
+
+.accordionHeaderSelected {
+border:1px solid #2F4F4F;
+color:#FFF;
+background-color:#5078B3;
+font-family:Arial, Sans-Serif;
+font-size:12px;
+font-weight:700;
+margin-top:5px;
+cursor:pointer;
+padding:5px;
+}
+
+.accordionContent {
+background-color:#D3DEEF;
+border:1px dashed #2F4F4F;
+border-top:none;
+padding:10px 5px 5px;
+}
+
+#master_content .accordionHeader a,#master_content .accordionHeaderSelected a {
+color:#FFF;
+background:none;
+text-decoration:none;
+}
+
+#master_content .accordionHeader a:hover,#master_content .accordionHeaderSelected a:hover {
+background:none;
+text-decoration:underline;
+}

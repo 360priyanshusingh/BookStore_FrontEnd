@@ -1,0 +1,50 @@
+﻿.google .ajax__tab_header {
+font-size:12px;
+font-weight:700;
+font-family:Arial;
+padding-left:5px;
+border-bottom:solid 3px #666;
+}
+
+.google .ajax__tab_body {
+font-family:Arial;
+font-size:12pt;
+border:solid 2px #666;
+border-top:none;
+}
+
+.google .ajax__tab_active .ajax__tab_outer {
+margin-right:4px;
+background:url(../img/tl.gif) no-repeat left top;
+}
+
+.google .ajax__tab_active .ajax__tab_inner {
+margin-left:4px;
+background:url(../img/tr.gif) no-repeat right top;
+}
+
+.google .ajax__tab_active .ajax__tab_tab {
+margin-right:4px;
+color:#fff;
+background:#666;
+text-decoration:none;
+padding:5px 3px;
+}
+
+.google .ajax__tab_outer {
+margin-right:4px;
+background:url(../img/inactive-tl.gif) no-repeat left top;
+}
+
+.google .ajax__tab_inner {
+margin-left:4px;
+background:url(../img/inactive-tr.gif) no-repeat right top;
+}
+
+.google .ajax__tab_tab {
+margin-right:4px;
+color:#0d4eb2;
+background:url(../img/inactive-mid.gif) repeat-x;
+text-decoration:underline;
+padding:5px 3px;
+}

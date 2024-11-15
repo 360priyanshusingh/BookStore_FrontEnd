@@ -1,0 +1,114 @@
+.CSS_datagrid {
+font-family:Tahoma;
+font-size:11px;
+color:#FFF;
+background-color:#3B7089;
+text-align:left;
+vertical-align:sub;
+}
+
+.CSS_datagrid caption {
+font-family:Tahoma;
+font-size:13px;
+font-weight:700;
+color:#D24812;
+text-align:center;
+vertical-align:sub;
+letter-spacing:.05em;
+padding-bottom:5pt;
+}
+
+.SelectedItem {
+font-family:Tahoma;
+font-size:11px;
+color:#000;
+background-color:#DDEAF0;
+text-align:left;
+vertical-align:sub;
+}
+
+.EditItem {
+font-family:Tahoma;
+font-size:11px;
+color:#030;
+background-color:#DDEAF0;
+text-align:left;
+vertical-align:sub;
+}
+
+.AlternatingItem {
+font-family:Tahoma;
+font-size:11px;
+color:#333;
+background-color:#F2F7Fa;
+text-align:left;
+vertical-align:sub;
+letter-spacing:.05em;
+}
+
+.AlternatingItemHindi {
+font-family:kruti dev 10px;
+font-size:17px;
+color:#000;
+background-color:#F2F7Fa;
+text-align:left;
+vertical-align:sub;
+}
+
+.Item {
+font-family:Tahoma;
+font-size:11px;
+color:#000;
+background-color:#FEFEFE;
+text-align:left;
+vertical-align:sub;
+letter-spacing:.05em;
+}
+
+.ItemHindi {
+font-family:kruti dev 10px;
+font-size:17px;
+color:#000;
+background-color:#FEFEFE;
+text-align:left;
+vertical-align:sub;
+letter-spacing:.05em;
+}
+
+.header {
+font-family:Tahoma;
+font-size:11px;
+font-weight:700;
+color:#FFF;
+background-color:#7C9AA9;
+text-align:Center;
+vertical-align:sub;
+text-decoration:Underline;
+}
+
+.Footer {
+background-color:#F2F7Fa;
+text-align:Center;
+vertical-align:sub;
+color:#333;
+}
+
+.Pager {
+font-family:Tahoma;
+font-size:11px;
+font-weight:700;
+color:#FFF;
+background-color:#7C9AA9;
+text-align:Center;
+vertical-align:sub;
+height:24px;
+}
+
+.Pager a {
+color:#e2e2e2;
+}
+
+.CSS_datagrid th,.CSS_datagrid td {
+padding-left:4pt;
+height:24px;
+}

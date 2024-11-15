@@ -1,0 +1,109 @@
+﻿.container {
+width:600px;
+border:solid 2px #bbb;
+background-color:#fff;
+}
+
+.grid {
+font-family:Arial;
+font-size:8.75pt;
+}
+
+.grid .titlebar {
+padding-left:18px;
+background:#666 url(../img/title.gif) no-repeat left center;
+height:28px;
+line-height:28px;
+font-size:11pt;
+color:#fff;
+}
+
+.grid .titlebar .title {
+font-weight:700;
+float:left;
+}
+
+.grid .pager {
+float:right;
+font-size:9pt;
+padding-right:15px;
+}
+
+.grid .pager .status {
+padding-left:5px;
+padding-right:8px;
+}
+
+.grid .footer .pager {
+border-top:solid 1px #b0b0b0;
+background:#e5e5e5;
+float:none;
+text-align:center;
+padding:8px;
+}
+
+.grid .footer .pager INPUT.command {
+padding:0 6px;
+}
+
+.grid .footer .pager SPAN.command,.grid .footer .pager SPAN.current,.grid .footer .pager A.command {
+color:#666;
+text-decoration:none;
+border:none;
+font-size:12px;
+padding:0 5px;
+}
+
+.grid .footer .pager A.command:hover {
+border:solid 2px #bbb;
+background-color:#666;
+color:#fff;
+text-decoration:none;
+padding:0 3px;
+}
+
+.grid .footer .pager SPAN.current {
+border:none;
+font-weight:700;
+font-size:16px;
+padding:0 6px;
+}
+
+.grid .datatable {
+width:100%;
+}
+
+.grid .datatable TH,.grid .datatable TD {
+text-align:left;
+}
+
+.grid .datatable TH {
+border-bottom:solid 1px #b0b0b0;
+font-weight:700;
+background-color:#e5e5e5;
+padding:6px 8px;
+}
+
+.grid .datatable TH A {
+display:block;
+text-decoration:none;
+color:#000;
+}
+
+.grid .datatable TD {
+border-top:solid 1px #e0e0e0;
+color:#111;
+padding:6px 8px;
+}
+
+.grid .datatable TH A:hover {
+text-decoration:underline;
+}
+
+.grid .datatable .altrow TD {
+background-color:#f9f9f9;
+}
+
+.grid .datatable TD.money {
+color:Green;
+}

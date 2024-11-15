@@ -1,0 +1,57 @@
+.viewprofile-container-cnt{
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    width: 100%;
+}
+.viewprofile-main-container-cnt{
+    margin-top: 78px;
+    margin-left: 1045px;
+    margin-right: 200px;
+}
+.viewprofile-welcome-heading-cnt{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    color: black;
+}
+.viewprofile-text-heading-cnt{
+    padding: 10px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #878787;
+}
+.viewprofile-login-btn-cnt{
+    padding: 10px;
+    font-size: 13px;
+    color: #A03037;
+    background-color: #FFFFFF;
+    border: 1px solid ;
+    cursor: pointer;
+}
+.viewprofile-login-area-cnt{
+    margin: 20px;
+}
+.viewprofile-line-container-cnt{
+    width: 90%;
+    background-color: #878787;
+    height: 1px;
+    margin: 10px;
+}
+.viewprofile-wishlist-container-cnt{
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    gap:2px;
+    cursor:pointer;
+}
+.viewprofile-wishlist-heading-cnt{
+    padding: 3px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #878787;
+}
+.viewprofile-wishlist-icon-heading-cnt{
+    padding: 3px;
+    color: #878787;
+}

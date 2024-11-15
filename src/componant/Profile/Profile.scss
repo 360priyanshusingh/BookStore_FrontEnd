@@ -1,0 +1,90 @@
+.profile-main-container-cnt{
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-top: 10px;
+}
+.profile-container-cnt{
+    margin-left: 42px;
+}
+.home-heading-cnt{
+    font-size: 15px;
+    color: grey;
+}
+.profile-heading-cnt{
+    font-size: 10px;
+}
+.personal-details-cnt{
+    display: flex;
+    flex-direction: row;
+}
+.imput-main-container{
+    display: flex;
+    flex-direction: column;
+}
+.personal-heading-cnt{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.edit-heading-cnt{
+    padding: 17px;
+    font-size: 12px;
+    cursor:pointer;
+}
+.input-lable-cnt{
+    padding: 10px;
+    font-size: 15px;
+    
+}
+.input-fileds-cnt{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(233 225 225);
+    color: black;
+    width: 50%;
+}
+.address-main-heading-cnt{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 53%;
+}
+.profile-address-main-container-cnt{
+    margin-top: 20px;
+  
+}
+.address-heading-cnt{
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.add-heading-cnt{
+    border: 2px solid rgb(221, 213, 213);
+    padding: 10px;
+    color: red;
+}
+.input-dis-cnt{
+    padding: 10px;
+    font-size: 13px;
+}
+.address-city-container-cnt{
+    display: flex;
+    flex-direction: row;
+    gap: 230px;
+}
+.imput-second-main-container{
+    display: flex;
+    flex-direction: column;
+}
+.save-btn-cnt{
+    margin-top: 15px;
+    margin-left: 245px;
+    padding: 5px;
+    color: #ffffff;
+    background-color: rgb(147, 147, 245);
+    width: 10%;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+}

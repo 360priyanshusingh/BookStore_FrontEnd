@@ -1,0 +1,27 @@
+.book-cnt-header-cnt{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 23px 2px 2px;
+}
+.book-container-cnt{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+
+}
+.book-main-cantainer-cnt{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.book-selector-heading-cnt{
+    padding: 5px;
+    width: 150px;
+}
+.book-heading-cnt{
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.book-selector-option-heading-cnt{
+    font-size: 12px;
+}
